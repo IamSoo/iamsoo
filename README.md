@@ -5,18 +5,18 @@ I am born and raised in Odisha, a beautiful state in eastern India. But, I have 
 
 ### Work 💸
 I work as a Senior Data Engineer in TrueLayer.
-I started as a Software Engineer working mostly working Java, Oracle, Javascript but later moved through different stack and roles.
-My domain of focus through out my career has been finance like retail banking, investment banking, trading etc.
+I started my career as a Software Engineer in working Java, Oracle, Javascript but later moved through different stacks and roles.
+My domain of focus through out my career has been finance like retail banking, investment banking, trading & open banking.
 
-I got fascinated by the evolution of Bigdata while working for an investment bank and made a big odd decision to do a masters degree which not only taught me the subjects related to Data Science but also helped me to learn and manage time, do hardwork(22 hours a day during school days), passion, determination & empathy.
-I also understood that life is not all about tags, hashtags, big companies, big brands, cars, homes in social media. The reality sometimes is completely opposite.
-So I do what I really like without thinking what others think and do. 
-I am rarely active in social media.
+I got fascinated by the evolution of Bigdata while working for an investment bank and made a big odd decision to do a masters degree(MS) which not only taught me the subjects related to Data Science but also helped me to learn and time management(sometimes i was awake for 22 hours a day during college days), to be passionate, to have determination & show empathy.
+I belive that life is not all about tags, hashtags, big companies, big brands, cars, homes in social media. Sometimes the reality is completely different. So I do what I really like without thinking what others think. I am rarely active in social media.
 
 ### Open Source: 👷 
 I do work in some open source projects.  
 I designed the initial infrastructure of https://kuulie.com/ which my friend owns.
 
+### Interests(Work related):
+I like to design, plan and discuss about bigdata stack & the new trends. Like spark, flink, kafka, hudi etc
+
 ### Contact 🤝
 ✍️ You can reach out to me on LinkedIn https://www.linkedin.com/in/soonam-kalyan-panda/
-
