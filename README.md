@@ -5,7 +5,7 @@ I am born and raised in Odisha, a beautiful state in eastern India. I have spent
 
 ### Work 💸
 I work as a Senior Data Engineer in TrueLayer, a unicorn open banking startup.
-I started my career as a Software Engineer in working Java, Oracle, Javascript but later moved through different stacks and roles.
+I started my career as a Software Engineer working in Java, Oracle, Javascript(the conventional 3 tier :) ) but later moved through different stacks and roles.
 My domain of focus through out my career has been finance like retail banking, investment banking, trading & open banking.
 
 I got fascinated by the evolution of Bigdata while working for an investment bank and made a big odd decision to do a masters degree(MS) which not only taught me the subjects related to Data Science but also helped me to learn time management(sometimes i was awake for 22 hours a day during college days), to be passionate, to have determination & show empathy in life.
