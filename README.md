@@ -19,4 +19,4 @@ I designed the initial infrastructure of https://kuulie.com/ which my friends ow
 I like to design, plan and discuss about bigdata stack & the recent trends. Like spark, flink, kafka, hudi etc
 
 ### Contact 🤝
-✍️ You can reach out to me on LinkedIn https://www.linkedin.com/in/soonam-kalyan-panda/
+✍️ You can reach out to me on LinkedIn https://www.linkedin.com/in/soonam-kalyan-panda/ or via https://iamsoo.github.io/ 
