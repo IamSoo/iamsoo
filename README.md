@@ -12,8 +12,9 @@ I got fascinated by the evolution of Bigdata while working for an investment ban
 I belive that life is short and its not all about tags, hashtags, big companies, big brands, cars, luxury homes in social media. Sometimes the reality is completely different. So I do what I really like and mind my own business. I am rarely active in social media.
 
 ### Open Source: 👷 
-I do work in some open source projects.  
-I worked as a scot-free(no pay) CTO and designed, developed the complete code & infrastructure of https://kuulie.com/, which my friend owns. Its maintained by a service company now.
+I do work in some open source projects.
+I helped my friend to build https://kuulie.com/ from scratch and worked as a scot-free(no pay) CTO. Its maintained by a service company now.
+
 
 ### Interests(Work related):
 I like to design, plan and discuss about bigdata stack & the recent trends. Like spark, flink, kafka, hudi etc
