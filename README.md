@@ -4,7 +4,7 @@ I am born and raised in Odisha, a beautiful state in eastern India. I have spent
 
 
 ### Work 💸
-I am a Data Engineer currently focusing on architecting and building services around new technologies.
+I am a Data Engineer currently focusing on architecting and building services around new bigdata technologies.
 I started my career as a full stack Software Engineer working in Java, Oracle, Javascript(the conventional 3 tier :) ) but later moved through different stacks and roles.
 My functional domain of focus through out my career has been finance like retail banking, investment banking, trading & open banking.
 
