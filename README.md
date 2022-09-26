@@ -4,7 +4,7 @@ I am born and raised in Odisha, a beautiful state in eastern India. I have spent
 
 
 ### Work 💸
-By profession I am a Data Engineer currently working for a unicorn open banking startup.
+I am a Data Engineer currently focusing on architecting and building services around new technologies.
 I started my career as a Software Engineer working in Java, Oracle, Javascript(the conventional 3 tier :) ) but later moved through different stacks and roles.
 My domain of focus through out my career has been finance like retail banking, investment banking, trading & open banking.
 
@@ -13,7 +13,7 @@ I belive that life is not all about tags, hashtags, big companies, big brands, c
 
 ### Open Source: 👷 
 I do work in some open source projects.  
-I designed the initial infrastructure of https://kuulie.com/ which my friends own.
+I designed and developed the initial infrastructure of https://kuulie.com/ which my friend owns.
 
 ### Interests(Work related):
 I like to design, plan and discuss about bigdata stack & the recent trends. Like spark, flink, kafka, hudi etc
