@@ -13,7 +13,7 @@ I belive that life is short and its not all about tags, hashtags, big companies,
 
 ### Open Source: 👷 
 I do work in some open source projects.  
-I designed and developed the initial infrastructure of https://kuulie.com/ which my friend owns.
+I worked as a scot-free(no pay) CTO and designed, developed the complete code & infrastructure of https://kuulie.com/, which my friend owns. Its maintained by a service company now.
 
 ### Interests(Work related):
 I like to design, plan and discuss about bigdata stack & the recent trends. Like spark, flink, kafka, hudi etc
